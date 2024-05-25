@@ -1,0 +1,24 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+main
+
+# Debug files
+*.dSYM/
+
+# Directory for build outputs
+bin/
+obj/
+build/
+debug/
+release/
+
+# VSCode folders
+.vscode/
+
+# Exclude system-specific files
+.DS_Store
